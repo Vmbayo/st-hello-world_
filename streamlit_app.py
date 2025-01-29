@@ -45,7 +45,7 @@ if menu == "Researcher Profile":
     st.sidebar.header("Profile Options")
 
     # Collect basic information
-    name = "Dr. VitalIS Mbayo"
+    name = "Dr. Vitalis Mbayo"
     field = "Computational Chemist"
     institution = "University of Johannesburg"
 
