@@ -6,11 +6,6 @@ Created on Wed Jan 29 13:34:47 2025
 """
 
 import streamlit as st
-
-st.write('Hello world!')
-
-
-import streamlit as st
 import pandas as pd
 import numpy as np
 
